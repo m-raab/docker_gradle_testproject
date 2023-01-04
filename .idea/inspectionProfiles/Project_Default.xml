@@ -1,0 +1,6 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="ReplaceUntilWithRangeUntil" enabled="$IDE_TEST_DEBUG_SUPPORT$" level="WEAK WARNING" enabled_by_default="$IDE_TEST_DEBUG_SUPPORT$" />
+  </profile>
+</component>

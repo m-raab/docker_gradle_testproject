@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AzureSettings">
+    <option name="appInsights" value="rO0ABXVyAEtbTGNvbS5taWNyb3NvZnQuYXBwbGljYXRpb25pbnNpZ2h0cy5wcmVmZXJlbmNlLkFwcGxpY2F0aW9uSW5zaWdodHNSZXNvdXJjZTvCzxEP0C2HbAIAAHhwAAAAAA==" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="$IDE_TEST_DEBUG_SUPPORT$" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownProjectSettings">
+    <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="$IDE_TEST_DEBUG_SUPPORT$" zoomFactor="1.0" maxImageWidth="0" synchronizePreviewPosition="$IDE_TEST_DEBUG_SUPPORT$" highlightPreviewType="LINE" highlightFadeOut="5" highlightOnTyping="$IDE_TEST_DEBUG_SUPPORT$" synchronizeSourcePosition="$IDE_TEST_DEBUG_SUPPORT$" verticallyAlignSourceAndPreviewSyncPosition="$IDE_TEST_DEBUG_SUPPORT$" showSearchHighlightsInPreview="$IDE_TEST_DEBUG_SUPPORT$" showSelectionInPreview="$IDE_TEST_DEBUG_SUPPORT$" lastLayoutSetsDefault="false">
+      <PanelProvider>
+        <provider providerId="com.vladsch.md.nav.editor.swing.html.panel" providerName="Default - Swing" />
+      </PanelProvider>
+    </PreviewSettings>
+    <ParserSettings gitHubSyntaxChange="false" correctedInvalidSettings="false" emojiShortcuts="1" emojiImages="0">
+      <PegdownExtensions>
+        <option name="ANCHORLINKS" value="$IDE_TEST_DEBUG_SUPPORT$" />
+        <option name="ATXHEADERSPACE" value="$IDE_TEST_DEBUG_SUPPORT$" />
+        <option name="FENCED_CODE_BLOCKS" value="$IDE_TEST_DEBUG_SUPPORT$" />
+        <option name="INTELLIJ_DUMMY_IDENTIFIER" value="$IDE_TEST_DEBUG_SUPPORT$" />
+        <option name="RELAXEDHRULES" value="$IDE_TEST_DEBUG_SUPPORT$" />
+        <option name="STRIKETHROUGH" value="$IDE_TEST_DEBUG_SUPPORT$" />
+        <option name="TABLES" value="$IDE_TEST_DEBUG_SUPPORT$" />
+        <option name="TASKLISTITEMS" value="$IDE_TEST_DEBUG_SUPPORT$" />
+      </PegdownExtensions>
+      <ParserOptions>
+        <option name="COMMONMARK_LISTS" value="$IDE_TEST_DEBUG_SUPPORT$" />
+        <option name="EMOJI_SHORTCUTS" value="$IDE_TEST_DEBUG_SUPPORT$" />
+        <option name="GFM_TABLE_RENDERING" value="$IDE_TEST_DEBUG_SUPPORT$" />
+        <option name="PRODUCTION_SPEC_PARSER" value="$IDE_TEST_DEBUG_SUPPORT$" />
+        <option name="SIM_TOC_BLANK_LINE_SPACER" value="$IDE_TEST_DEBUG_SUPPORT$" />
+      </ParserOptions>
+    </ParserSettings>
+    <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" addPageHeader="false" imageUriSerials="false" addDocTypeHtml="$IDE_TEST_DEBUG_SUPPORT$" noParaTags="false" plantUmlConversion="0">
+      <GeneratorProvider>
+        <provider providerId="com.vladsch.md.nav.editor.text.html.generator" providerName="Unmodified HTML Generator" />
+      </GeneratorProvider>
+      <headerTop />
+      <headerBottom />
+      <bodyTop />
+      <bodyBottom />
+    </HtmlSettings>
+    <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssUriSerial="$IDE_TEST_DEBUG_SUPPORT$" isCssTextEnabled="false" isDynamicPageWidth="$IDE_TEST_DEBUG_SUPPORT$">
+      <StylesheetProvider>
+        <provider providerId="com.vladsch.md.nav.editor.text.html.css" providerName="No Stylesheet" />
+      </StylesheetProvider>
+      <ScriptProviders />
+      <cssText />
+      <cssUriHistory />
+    </CssSettings>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="$IDE_TEST_DEBUG_SUPPORT$" project-jdk-name="temurin-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
