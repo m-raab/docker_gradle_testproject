@@ -1,13 +1,10 @@
-ARG BASE_IMAGE
 FROM ubuntu:20.04 as BUILD
 
-RUN mkdir -p /intershop-prj
+RUN mkdir -p /intershop-prj &&\
+    adduser intershop && \
+    chown -R intershop /intershop-prj
 
-
-RUN mkdir -p /intershop-prj
-
-FROM $BASE_IMAGE
-ARG NAME
+FROM ubuntu:20.04
 
 COPY --from=BUILD --chown=intershop:intershop /intershop-prj/ /intershop/
 USER intershop
